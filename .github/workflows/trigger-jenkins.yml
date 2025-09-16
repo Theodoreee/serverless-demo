@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Trigger Jenkins build
         run: |
-          curl -X POST http://ip10-0-56-6-d34gvj7tq0k1c7corn9g-8080.direct.lab-boris.fr/job/serverless-demo/build --user "theo:116ca90c9cb87dff79eeab05b8085de150" 
+          curl -X POST http://ip10-0-56-6-d34gvj7tq0k1c7corn9g-8080.direct.lab-boris.fr/job/serverless-demo/build --user "theo:1130bc35e8208bf4b0d61dea8bcb7c543b" 
